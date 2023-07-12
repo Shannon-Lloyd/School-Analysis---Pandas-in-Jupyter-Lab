@@ -32,12 +32,18 @@ Initiate gitbash on the PyCitySchools folder.
 Enter "conda activate dev" into gitbash to initiate a dev environment.
 Enter "jupyter lab" to open Jupyter Lab at the PyCitySchools folder.
 You should see the PyCitySchools.ipynb file.
-Open and run PyCitySchools.ipynb. The outputs should match the outputs provided in the PyCitySchools_starter.ipynb file.
+
+Open and run PyCitySchools.ipynb.
+
+The outputs should match the outputs provided in the PyCitySchools_starter.ipynb file.
+
+Make sure you are not using PyCitySchools_starter.ipynb which is only included for comparison purposes!!!!!
 
 
 ## Contributing
-Thank you to CG:AF at Central Grading for refering me to https://community.codenewbie.org/kwing25/how-to-write-a-good-readme-for-your-project-16ej. I have used this as a template instead of the template from the Gitlab repository for class. 
+Thank you to CG:AF at Central Grading for refering me to https://community.codenewbie.org/kwing25/how-to-write-a-good-readme-for-your-project-16ej. I have used this as a template instead of the template from the Gitlab repository for class. Hopefully y'all like it better.
 
 Thanks to Brett Payne for providing the best Pandas cheat sheet that I found.  https://www.dataquest.io/blog/pandas-cheat-sheet/
 
 https://stackoverflow.com/ was my go to for errors.
+
