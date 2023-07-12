@@ -1,5 +1,5 @@
 # Pandas Challenge 
-Brief project description 2-3 sentences.
+Assignment for UT Data Analysis and Visulization Bootcamp to pratice using Pandas in Jupyter Lab to clean data and present it in an clear consise manner to understand the data and communicate our findings effectivley.
 
 ## Table of Contents
 
@@ -21,7 +21,11 @@ The PyCitySchools folder also contains a Resources folder which contains the fil
 
 
 ## Installing
-This was run using gitbash on Windows 10 Pro system.
+This was run using gitbash on a Windows 10 Pro system.
+Jupyter Lab and Pandas
+Python 3.10.11
+conda 23.5.0
+
 
 ## Usage
 Initiate gitbash on the PyCitySchools folder.  
@@ -33,3 +37,7 @@ Open and run PyCitySchools.ipynb. The outputs should match the outputs provided 
 
 ## Contributing
 Thank you to CG:AF at Central Grading for refering me to https://community.codenewbie.org/kwing25/how-to-write-a-good-readme-for-your-project-16ej. I have used this as a template instead of the template from the Gitlab repository for class. 
+
+Thanks to Brett Payne for providing the best Pandas cheat sheet that I found.  https://www.dataquest.io/blog/pandas-cheat-sheet/
+
+https://stackoverflow.com/ was my go to for errors.
