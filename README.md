@@ -10,7 +10,7 @@ Assignment for UT Data Analysis and Visulization Bootcamp to pratice using Panda
 - [Contributing](#contributing)
 
 ## About
-Create and Manipulate Pandas DAtaFrames to analyze school and standardized test data.
+Create and Manipulate Pandas DataFrames to analyze school and standardized test data.
 
 ## Getting Started
 All necessary files are located in this PyCitySchools repository. 
