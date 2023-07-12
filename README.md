@@ -15,7 +15,10 @@ Create and Manipulate Pandas DataFrames to analyze school and standardized test 
 ## Getting Started
 All necessary files are located in this PyCitySchools repository. 
 
-The PyCitySchools folder contains the files PyCitySchools.ipynb and PyCitySchools_starter.ipynb. PyCitySchools.ipynb is the file that you will want to run! The other is for reference as to what we were given to start with and samples of the expected outputs.
+The PyCitySchools folder contains the files PyCitySchools.ipynb and PyCitySchools_starter.ipynb.
+PyCitySchools.ipynb is the file that you will want to run!
+
+The other is for reference as to what we were given to start with and samples of the expected outputs.
 
 The PyCitySchools folder also contains a Resources folder which contains the files schools_complete.csv and students_complete.csv which are used for input data for PyCitySchools.ipynb.
 
